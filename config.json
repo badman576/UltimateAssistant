@@ -1,0 +1,11 @@
+{
+    "version": "4.0",
+    "github": {
+        "token_encrypted": null,
+        "default_repos": ["badman576/peter", "badman576/a-bot"]
+    },
+    "voice_activation": {
+        "phrase": "hey assistant",
+        "sensitivity": 0.85
+    }
+}
